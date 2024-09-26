@@ -1,4 +1,5 @@
-![HR Analytics dashboard](https://github.com/user-attachments/assets/e6d3c43c-4bd9-49c7-aad0-ee45eb372ce6)# HR Data Analytics Dashboard
+# HR Data Analytics Dashboard
+![HR Analytics dashboard](https://github.com/user-attachments/assets/e6d3c43c-4bd9-49c7-aad0-ee45eb372ce6)                                                                                           
 
 ## Project Overview
 The **HR Data Analytics Dashboard** is an interactive and visually rich tool designed to help HR teams and management analyze key HR metrics, such as employee attrition, job satisfaction, and workforce demographics. This dashboard provides insights into department-wise attrition, gender-based trends, age group analysis, and employee satisfaction, allowing for data-driven decision-making.
@@ -13,7 +14,7 @@ The **HR Data Analytics Dashboard** is an interactive and visually rich tool des
 
 ## Tools Used
 - **Tableau**: Used for building the interactive dashboard and visualizing the HR data with various charts and graphs.
-- **Data Source**: The data used in this dashboard was sourced from internal HR datasets, which include employee demographics, job roles, satisfaction ratings, and attrition details.
+- **Data Source**: [HR Data.xlsx](https://github.com/user-attachments/files/17147590/HR.Data.xlsx)
 
 ## Dashboard Components
 1. **Top Section**:
@@ -35,10 +36,8 @@ The **HR Data Analytics Dashboard** is an interactive and visually rich tool des
    
 ## Working of the Dashboard 
 
+https://github.com/user-attachments/assets/da125089-c012-401f-8840-cc873e68cc01
 
-
-## Snapshot of dashboard
-![HR Analytics dashboard](https://github.com/user-attachments/assets/024ffe2e-d161-4abd-b248-53216e65a34f)
 
 ## Insights Gained
 - **Attrition Analysis**: The dashboard highlights that the **Sales** and **R&D** departments have the highest attrition rates.
